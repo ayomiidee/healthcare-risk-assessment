@@ -53,4 +53,4 @@ Risk assessment, asset management, control mapping, gap analysis, policy writing
 
 ## About Me
 
-Ayomide Oriowo. UAlbany cybersecurity graduate (BS, summa cum laude) and MS student in Cybersecurity and Risk Management. I am focused on GRC and compliance advisory roles.
+Ayomide Oriowo. UAlbany cybersecurity graduate (BS, summa cum laude) and MS student in Cybersecurity and Risk Management. 
