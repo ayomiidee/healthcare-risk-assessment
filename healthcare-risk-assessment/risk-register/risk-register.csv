@@ -1,0 +1,13 @@
+ID,Risk,Asset,Likelihood (1-5),Impact (1-5),Score,Rating,Treatment,Planned Action,Owner,Target Date
+R01,Phishing leads to stolen credentials,A06 Email,4,4,16,High,Mitigate,Add email filtering and train staff,IT Contractor,60 days
+R02,Ransomware encrypts EHR server,A01 EHR,3,5,15,High,Mitigate,Offline backup and endpoint protection,IT Contractor,60 days
+R03,Lost or stolen unencrypted laptop,A03 Laptops,3,4,12,Medium,Mitigate,Enable full disk encryption,IT Contractor,30 days
+R04,Staff have excessive access to patient records,A01 EHR,4,3,12,Medium,Mitigate,Role based access and quarterly review,Clinic Manager,90 days
+R05,Remote access has no MFA,A01 EHR,4,5,20,High,Mitigate,Enforce MFA for all remote access,IT Contractor,30 days
+R06,Systems are not patched on time,A03 A04 A07,4,4,16,High,Mitigate,Monthly patch cycle with checklist,IT Contractor,30 days
+R07,Billing vendor suffers a breach,A02 Billing,3,4,12,Medium,Transfer,Review vendor contract and security report,Billing Lead,90 days
+R08,Backups fail or cannot be restored,A10 Backup,2,5,10,Medium,Mitigate,Quarterly restore test,IT Contractor,60 days
+R09,Employee views records without need,A01 EHR,3,3,9,Medium,Mitigate,Review access logs weekly,Clinic Manager,90 days
+R10,Guest Wi-Fi can reach staff network,A09 Wi-Fi,3,2,6,Medium,Mitigate,Separate guest network,IT Contractor,45 days
+R11,Staff have no security awareness training,All staff,5,3,15,High,Mitigate,Annual training and phishing tests,Clinic Manager,60 days
+R12,Printers and tablets are exposed and unmanaged,A05 A11,3,3,9,Medium,Mitigate,Change default passwords and update firmware,Office Manager,60 days
